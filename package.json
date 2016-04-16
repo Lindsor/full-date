@@ -1,6 +1,6 @@
 {
   "name": "full-date",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Adds some missing date functionality such as formatting, checkinf if a date falls in a range...",
   "main": "index.js",
   "scripts": {
