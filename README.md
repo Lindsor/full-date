@@ -118,7 +118,7 @@ Returns the formats object which holds all of the functions used for formating t
 
 Returns a formated string based on the pased in date and format string.
 
-This function uses the PHP format mapping [found here PHP date function](http://php.net/manual/en/function.date.php).
+This function uses the PHP format mapping [found here](http://php.net/manual/en/function.date.php).
 
 __NOTE:__ Not all mappings have been implemented yet.
 
